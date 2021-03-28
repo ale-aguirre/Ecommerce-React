@@ -1,6 +1,5 @@
 # E-COMMERCE
-App hecha con React, usando Firebase y Stripe API, deploy en Heroku
-Para ver la app : [https://crwn-live0708.herokuapp.com/](https://crwn-live0708.herokuapp.com/)
+App hecha con React, usando Firebase y Stripe API.
 
 ## Screenshots
 ![Landing page](https://user-images.githubusercontent.com/60403638/83971127-2aff8a00-a8f7-11ea-8cc6-f5205cc4d25b.jpg)
